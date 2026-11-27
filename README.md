@@ -9,6 +9,8 @@
 | `data/mitzvot_master_index.csv` | 613 rows, UTF-8, one row per commandment. The master numbering for the guide. |
 | `data/pass2/chinukh_links_raw.json` | Unverified Sefaria links from each Rambam number to Sefer HaChinukh numbers. Input for pass 2 only. |
 | `README.md` | This file: columns, method, sources, known issues. |
+| `qa/` | Questions & Answers, one file per mitzvah, named by Rambam number (e.g. `qa/P10-shema.md`). |
+| `forum/` | Discussion-forum posts that go with the Q&A files. |
 
 ## Numbering
 
